@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "meow",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/string.sol": "stringnum"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/string.sol": {
+			"keccak256": "0x451e0bf0f35921cbf7f0641495e1de7f5d0189f2cd7167f87aace7df6ce692c7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://43eef8da81e29bb44629725705b72dafdf1fb2a9c1dc4dda02abda5dfcf6d44c",
+				"dweb:/ipfs/QmZ5CuMfQ3PMwXAthDXW7t8RqyJRjMQfZwHHviapPj4Eh4"
+			]
+		}
+	},
+	"version": 1
+}
